@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form Component should render correctly based on props 1`] = `
+<form
+  className="ui form"
+>
+  <div
+    className="field"
+  >
+    <label>
+      Title
+    </label>
+    <input
+      defaultValue=""
+      placeholder="Title"
+    />
+  </div>
+  <div
+    className="field"
+  >
+    <label>
+      Description
+    </label>
+    <input
+      defaultValue=""
+      placeholder="Description"
+    />
+  </div>
+  <div
+    className="field"
+  >
+    <input
+      id="image"
+      onChange={[Function]}
+      type="file"
+    />
+  </div>
+  <button
+    className="ui button"
+    onClick={[Function]}
+    tabIndex={undefined}
+  >
+    Submit
+  </button>
+</form>
+`;

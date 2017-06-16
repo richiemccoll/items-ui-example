@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Component should render correctly based on props 1`] = `
+<div
+  className="sc-ifAKCX egvpF"
+>
+  <div
+    className="sc-bdVaJa iyRwOl"
+  >
+    <div
+      className="sc-bwzfXH gOHCgz"
+    >
+      <img
+        alt="test"
+        className="sc-htpNat emEaka"
+        src=""
+      />
+    </div>
+    <div
+      className="sc-bxivhb gutIee"
+    >
+      <h2
+        className="ui header"
+      >
+        test
+      </h2>
+      <h3
+        className="ui header"
+      />
+      <button
+        className="ui green basic button"
+        onClick={[Function]}
+        tabIndex={undefined}
+      >
+        Edit
+      </button>
+    </div>
+  </div>
+  <div
+    className="sc-bdVaJa iyRwOl"
+  >
+    <div
+      className="sc-bwzfXH gOHCgz"
+    >
+      <img
+        alt="test2"
+        className="sc-htpNat emEaka"
+        src=""
+      />
+    </div>
+    <div
+      className="sc-bxivhb gutIee"
+    >
+      <h2
+        className="ui header"
+      >
+        test2
+      </h2>
+      <h3
+        className="ui header"
+      />
+      <button
+        className="ui green basic button"
+        onClick={[Function]}
+        tabIndex={undefined}
+      >
+        Edit
+      </button>
+    </div>
+  </div>
+</div>
+`;

@@ -14,7 +14,7 @@ class SearchBar extends React.Component {
   };
 
   render() {
-    return <Search onChange={this.handleInput} placeholder="Search"/>;
+    return <Search id="search" onChange={this.handleInput} placeholder="Search"/>;
   }
 }
 

@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Component should render correctly based on props 1`] = `
+<div
+  className="sc-bdVaJa iyRwOl"
+>
+  <div
+    className="sc-bwzfXH gOHCgz"
+  >
+    <img
+      alt="Test Card"
+      className="sc-htpNat emEaka"
+      src=""
+    />
+  </div>
+  <div
+    className="sc-bxivhb gutIee"
+  >
+    <h2
+      className="ui header"
+    >
+      Test Card
+    </h2>
+    <h3
+      className="ui header"
+    >
+      test desc
+    </h3>
+    <button
+      className="ui green basic button"
+      onClick={[Function]}
+      tabIndex={undefined}
+    >
+      Edit
+    </button>
+  </div>
+</div>
+`;

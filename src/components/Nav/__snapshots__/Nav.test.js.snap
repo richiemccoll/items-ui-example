@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav Component should render correctly based on props 1`] = `
+<nav>
+  <ul
+    className="sc-bwzfXH bRskXu"
+  >
+    <li
+      className="sc-htpNat bEgqAd"
+    >
+      <input
+        className="sc-bdVaJa dsiGYE"
+        id="search"
+        onChange={[Function]}
+        placeholder="Search"
+      />
+    </li>
+    <li
+      className="sc-htpNat bEgqAd"
+    >
+      <button
+        className="ui blue basic button"
+        onClick={[Function]}
+        tabIndex={undefined}
+      >
+        Add new cake
+      </button>
+    </li>
+  </ul>
+</nav>
+`;

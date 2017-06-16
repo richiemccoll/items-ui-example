@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Component should render correctly 1`] = `
+<input
+  className="sc-bdVaJa dsiGYE"
+  id="search"
+  onChange={[Function]}
+  placeholder="Search"
+/>
+`;

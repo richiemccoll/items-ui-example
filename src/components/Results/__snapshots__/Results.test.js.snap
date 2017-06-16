@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Results Component should render correctly based on props 1`] = `
+<div>
+  <button
+    className="ui blue basic button"
+    onClick={[Function]}
+    tabIndex={undefined}
+  >
+    Back
+  </button>
+  <div
+    className="sc-ifAKCX egvpF"
+  >
+    <div
+      className="sc-bdVaJa iyRwOl"
+    >
+      <div
+        className="sc-bwzfXH gOHCgz"
+      >
+        <img
+          alt="test"
+          className="sc-htpNat emEaka"
+          src=""
+        />
+      </div>
+      <div
+        className="sc-bxivhb gutIee"
+      >
+        <h2
+          className="ui header"
+        >
+          test
+        </h2>
+        <h3
+          className="ui header"
+        />
+      </div>
+    </div>
+    <div
+      className="sc-bdVaJa iyRwOl"
+    >
+      <div
+        className="sc-bwzfXH gOHCgz"
+      >
+        <img
+          alt="test2"
+          className="sc-htpNat emEaka"
+          src=""
+        />
+      </div>
+      <div
+        className="sc-bxivhb gutIee"
+      >
+        <h2
+          className="ui header"
+        >
+          test2
+        </h2>
+        <h3
+          className="ui header"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
